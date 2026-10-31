@@ -20,7 +20,7 @@ A simple Chrome extension for saving and managing potential leads directly from 
 1. Clone this repository:
 
    ```bash
-   git clone YOUR_REPOSITORY_URL
+   git clone https://github.com/Htoo-Eaindra-Tin/Lead-Tracker-Chrome-Extension.git
    ```
 
 2. Open Google Chrome and navigate to `chrome://extensions/`.
