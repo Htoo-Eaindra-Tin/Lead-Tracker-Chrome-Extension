@@ -41,7 +41,8 @@ savebtn.addEventListener("click" , () => {
 
 
 function renderLead(){
-    let listItem = "<a href = 'www.google.com' target='_blank'><li>" + inputEl.value +"</li></a>"
+    
+    let listItem = `<a href = "${inputEl.value}" target = _blank><li> ${inputEl.value} </li></a>` 
     ulEL.innerHTML += listItem
 }
    
